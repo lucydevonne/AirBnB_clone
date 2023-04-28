@@ -1,4 +1,5 @@
-![AirBnB Clone Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png)
+![AirBnB Clone Project](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230428%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230428T114741Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=efcc1d75cb9716945d6920e80f8f12fab90aa9f220420c4de568337d72da47af)
+
 
 # AirBnB Clone Project
 
