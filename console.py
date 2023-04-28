@@ -93,7 +93,7 @@ class HBNBCommand(cmd.Cmd):
         """Creates an instance.
        """
         if line == "" or line is None:
-           print("** class name missing **")
+            print("** class name missing **")
         elif line not in storage.classes():
             print("** class doesn't exist **")
         else:
@@ -213,6 +213,7 @@ class HBNBCommand(cmd.Cmd):
                         pass  # fine, stay a string then
                 setattr(storage.all()[key], attribute, value)
                 storage.all()[key].save()
+
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
